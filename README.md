@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="280" src="https://supreme-sapphire-ms8aaxpb8n.edgeone.app/Wellcome%20to%20Antunes%20GitHub.png"  />
+</div>
+
+###
+
 <h1 align="center">Hi, I'm Antunes</h1>
 
 ###
@@ -14,7 +20,7 @@
 
 ###
 
-<h2 align="left">Skills</h2>
+<h2 align="left">Skills:</h2>
 
 ###
 
