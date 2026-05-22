@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🚀 I’m currently building web projects and improving my full-stack skills<br>🌱 I’m currently learning advanced JavaScript and backend development<br>💡 I’m looking for opportunities to collaborate and grow as a developer<br>💬 Ask me about Web Development (HTML, CSS, JS, PHP, Python)<br>📫 How to reach me: your.email@gmail.com</p>
+<p align="left">🚀 I’m currently building web projects and improving my full-stack skills<br>🌱 I’m currently learning advanced JavaScript and backend development<br>💡 I’m looking for opportunities to collaborate and grow as a developer<br>💬 Ask me about Web Development (HTML, CSS, JS, PHP, Python)<br>📫 How to reach me: isaque.antunes.oficial@gmail.com</p>
 
 ###
 
